@@ -5,3 +5,4 @@ BeHealthy2 Hackathon artif.ai
 - Django
 - UIKit
 - pandas
+- Tesseract OCR
