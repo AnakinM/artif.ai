@@ -6,7 +6,7 @@ from .forms import ImageUploadForm
 from .models import PhotoModel
 from .get_vitamins import *
 from django.core.files.storage import FileSystemStorage
-from py_translator import Translator
+#from py_translator import Translator
 import re
 
 def care_ocr_output(ocr_otput):

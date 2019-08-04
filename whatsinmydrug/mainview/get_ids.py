@@ -1,7 +1,6 @@
 import csv
 import re
 import pandas as pd
-from py_translator import Translator
 
 def make_list(name):
     name = name.strip('[')

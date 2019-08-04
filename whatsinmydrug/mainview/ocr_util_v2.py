@@ -1,4 +1,4 @@
-import PIL
+#import PIL
 import pytesseract
 import cv2
 import numpy as np
